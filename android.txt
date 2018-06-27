@@ -1,0 +1,3 @@
+title= pypod
+author=dev_mcroni
+orientation= portrait
